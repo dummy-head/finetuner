@@ -1,4 +1,4 @@
-# mxnet-finetuner
+# finetuner
 
 An all-in-one Deep Learning toolkit for image classification to fine-tuning pretrained models using MXNet.
 
